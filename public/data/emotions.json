@@ -1,0 +1,2913 @@
+{
+  "emotions": {
+    "joy": {
+      "id": "joy",
+      "name": {
+        "pl": "radość",
+        "en": "joy",
+        "de": "Freude",
+        "fr": "joie",
+        "es": "alegría"
+      },
+      "intensity_levels": {
+        "low": {
+          "name": "zadowolenie",
+          "description": "Łagodny stan przyjemności i satysfakcji",
+          "physical_signs": ["delikatny uśmiech", "rozluźnione mięśnie"]
+        },
+        "medium": {
+          "name": "radość",
+          "description": "Wyraźny stan szczęścia i dobrostanu",
+          "physical_signs": ["szeroki uśmiech", "żywa gestykulacja"]
+        },
+        "high": {
+          "name": "ekstaza",
+          "description": "Intensywny stan uniesienia i zachwytu",
+          "physical_signs": ["śmiech", "dynamiczne ruchy całego ciała"]
+        }
+      },
+      "physical_manifestations": {
+        "face": {
+          "eyes": [
+            "rozszerzone źrenice",
+            "zmarszczki w kącikach oczu (kurze łapki)",
+            "błyszczące oczy",
+            "zwiększone mruganie",
+            "uniesione powieki",
+            "zwężone podczas szczerego uśmiechu"
+          ],
+          "mouth": [
+            "uniesione kąciki ust",
+            "odsłonięte zęby podczas uśmiechu",
+            "symetryczny uśmiech",
+            "rozluźnione usta",
+            "naturalne ruchy warg podczas mówienia"
+          ],
+          "cheeks": [
+            "uniesione",
+            "zaróżowione",
+            "uwydatnione",
+            "napięte podczas szczerego uśmiechu"
+          ],
+          "general": [
+            "rozluźnione mięśnie twarzy",
+            "naturalne zmarszczki mimiczne",
+            "symetryczna ekspresja",
+            "harmonijny wyraz całości"
+          ]
+        },
+        "body": {
+          "posture": [
+            "wyprostowana",
+            "otwarta",
+            "skierowana do przodu",
+            "uniesiona głowa",
+            "rozluźnione ramiona",
+            "wyprostowany kręgosłup",
+            "stabilna pozycja nóg"
+          ],
+          "movement": [
+            "energiczne",
+            "płynne",
+            "dynamiczne",
+            "lekkie",
+            "rytmiczne",
+            "skoordynowane",
+            "naturalne"
+          ],
+          "gestures": [
+            "ekspansywne ruchy rąk",
+            "gestykulacja otwarta",
+            "ruchy symetryczne",
+            "spontaniczne gesty",
+            "żywa gestykulacja"
+          ]
+        },
+        "voice": {
+          "tone": [
+            "melodyjny",
+            "dźwięczny",
+            "ciepły",
+            "bogaty w barwę",
+            "przyjemny dla ucha"
+          ],
+          "pitch": [
+            "podwyższony",
+            "zróżnicowany",
+            "modulowany",
+            "elastyczny",
+            "naturalny"
+          ],
+          "tempo": [
+            "przyspieszone",
+            "płynne",
+            "rytmiczne",
+            "dynamiczne",
+            "żywe"
+          ],
+          "volume": [
+            "umiarkowany do głośnego",
+            "dynamiczny",
+            "dostosowany do sytuacji",
+            "naturalnie zmienny"
+          ]
+        },
+        "physiological": {
+          "breathing": [
+            "głęboki",
+            "regularny",
+            "przeponowy",
+            "swobodny",
+            "pełny"
+          ],
+          "muscle_tension": [
+            "optymalne napięcie",
+            "rozluźnienie",
+            "elastyczność",
+            "gotowość do ruchu"
+          ],
+          "heart_rate": ["lekko przyspieszony", "regularny", "stabilny"]
+        }
+      },
+      "psychological_manifestations": {
+        "cognitive": {
+          "thought_patterns": [
+            "optymistyczne",
+            "kreatywne",
+            "elastyczne",
+            "konstruktywne",
+            "zorientowane na rozwiązania"
+          ],
+          "attention": [
+            "szeroki zakres uwagi",
+            "łatwość koncentracji",
+            "otwartość na bodźce",
+            "zwiększona percepcja pozytywnych aspektów"
+          ],
+          "perception": [
+            "pozytywna interpretacja zdarzeń",
+            "zwiększona wrażliwość na przyjemne bodźce",
+            "tendencja do dostrzegania możliwości",
+            "optymistyczna ocena sytuacji"
+          ]
+        },
+        "emotional": {
+          "core_feelings": [
+            "przyjemność",
+            "zadowolenie",
+            "entuzjazm",
+            "spełnienie",
+            "błogość"
+          ],
+          "associated_emotions": [
+            "wdzięczność",
+            "optymizm",
+            "energia",
+            "pewność siebie",
+            "spokój"
+          ]
+        },
+        "behavioral": {
+          "social": [
+            "zwiększona towarzyskość",
+            "otwartość na innych",
+            "chęć dzielenia się",
+            "empatia",
+            "życzliwość"
+          ],
+          "motivation": [
+            "zwiększona inicjatywa",
+            "chęć działania",
+            "kreatywność",
+            "produktywność"
+          ],
+          "energy_level": [
+            "podwyższony",
+            "stabilny",
+            "odnawialny",
+            "zrównoważony"
+          ]
+        },
+        "memory": {
+          "recall": [
+            "łatwiejszy dostęp do pozytywnych wspomnień",
+            "selektywne przypominanie przyjemnych wydarzeń",
+            "zwiększona zdolność przywoływania szczegółów"
+          ],
+          "formation": [
+            "lepsze zapamiętywanie pozytywnych wydarzeń",
+            "tworzenie trwałych pozytywnych skojarzeń",
+            "wzmocnione kodowanie przyjemnych doświadczeń"
+          ]
+        }
+      },
+      "neurobiological_aspects": {
+        "brain_regions": [
+          {
+            "name": "kora przedczołowa",
+            "function": "regulacja emocji i planowanie",
+            "activity": "zwiększona"
+          },
+          {
+            "name": "układ limbiczny",
+            "function": "przetwarzanie emocji",
+            "activity": "zrównoważona"
+          },
+          {
+            "name": "ciało migdałowate",
+            "function": "ocena emocjonalna",
+            "activity": "umiarkowana"
+          }
+        ],
+        "hormonal_changes": [
+          {
+            "hormone": "serotonina",
+            "effect": "poprawa nastroju",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "dopamina",
+            "effect": "uczucie przyjemności",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "oksytocyna",
+            "effect": "więzi społeczne",
+            "level": "podwyższony"
+          }
+        ]
+      },
+      "temporal_characteristics": {
+        "onset_speed": {
+          "gradual": "powolne narastanie w reakcji na pozytywne wydarzenia",
+          "sudden": "nagły wzrost w reakcji na nieoczekiwane pozytywne bodźce"
+        },
+        "duration": {
+          "typical": "od kilku minut do kilku godzin",
+          "factors": [
+            "intensywność bodźca",
+            "okoliczności zewnętrzne",
+            "predyspozycje osobowościowe"
+          ]
+        },
+        "decay_pattern": {
+          "natural": "stopniowe wygasanie",
+          "influenced_by": [
+            "pojawienie się innych emocji",
+            "zmiana okoliczności",
+            "fizyczne zmęczenie"
+          ]
+        }
+      },
+      "triggers": {
+        "external": [
+          "sukces osobisty lub zawodowy",
+          "pozytywne interakcje społeczne",
+          "przyjemne doświadczenia zmysłowe",
+          "otrzymanie dobrej wiadomości",
+          "osiągnięcie celu"
+        ],
+        "internal": [
+          "pozytywne wspomnienia",
+          "optymistyczne myśli",
+          "poczucie spełnienia",
+          "satysfakcja z własnych działań",
+          "wdzięczność"
+        ]
+      },
+      "defense_mechanisms": {
+        "common_defenses": [
+          "tłumienie radości w nieodpowiednich sytuacjach",
+          "racjonalizacja pozytywnych emocji",
+          "sublimacja poprzez twórcze działania"
+        ],
+        "coping_strategies": {
+          "adaptacyjne": [
+            "dzielenie się radością z innymi",
+            "konstruktywne wykorzystanie energii",
+            "świadome przeżywanie pozytywnych emocji"
+          ],
+          "nieadaptacyjne": [
+            "nadmierna euforia",
+            "ignorowanie realnych zagrożeń",
+            "impulsywne działania"
+          ]
+        }
+      },
+      "developmental_aspects": {
+        "age_manifestation": {
+          "childhood": [
+            "spontaniczna ekspresja",
+            "czysty śmiech",
+            "całościowe zaangażowanie ciała"
+          ],
+          "adolescence": [
+            "większa kontrola ekspresji",
+            "wpływ norm społecznych",
+            "złożoność emocjonalna"
+          ],
+          "adulthood": [
+            "dojrzała ekspresja",
+            "świadome przeżywanie",
+            "kontekstowa modulacja"
+          ]
+        },
+        "developmental_milestones": [
+          "rozpoznawanie radości u innych",
+          "kontrola ekspresji",
+          "empatyczne współodczuwanie",
+          "świadome wywoływanie radości"
+        ]
+      },
+      "audience_impact": {
+        "emotional_contagion": {
+          "mechanisms": [
+            "mimikra emocjonalna",
+            "rezonans emocjonalny",
+            "synchronizacja grupowa"
+          ],
+          "effects": [
+            "poprawa nastroju widowni",
+            "zwiększone zaangażowanie",
+            "wzmocnienie więzi społecznych"
+          ]
+        },
+        "catharsis_potential": {
+          "individual": [
+            "uwolnienie napięcia",
+            "oczyszczenie emocjonalne",
+            "odnowa psychiczna"
+          ],
+          "collective": [
+            "wspólne doświadczenie",
+            "grupowa euforia",
+            "społeczne więzi"
+          ]
+        }
+      },
+      "historical_representations": {
+        "theatrical_traditions": {
+          "ancient": [
+            "greckie komedie",
+            "rzymskie farsy",
+            "średniowieczne święta głupców"
+          ],
+          "classical": [
+            "commedia dell'arte",
+            "szekspirowskie komedie",
+            "molierowski humor"
+          ],
+          "modern": ["teatr absurdu", "performance art", "teatr fizyczny"]
+        }
+      }
+    },
+    "trust": {
+      "id": "trust",
+      "name": {
+        "pl": "zaufanie",
+        "en": "trust",
+        "de": "Vertrauen",
+        "fr": "confiance",
+        "es": "confianza"
+      },
+      "intensity_levels": {
+        "low": {
+          "name": "akceptacja",
+          "description": "Podstawowy stan otwartości i przyjęcia",
+          "physical_signs": ["łagodny kontakt wzrokowy", "spokojna postawa"]
+        },
+        "medium": {
+          "name": "zaufanie",
+          "description": "Aktywny stan pewności i bezpieczeństwa w relacji",
+          "physical_signs": [
+            "otwarta postawa ciała",
+            "stabilny kontakt wzrokowy"
+          ]
+        },
+        "high": {
+          "name": "uwielbienie",
+          "description": "Głęboki stan oddania i całkowitego zawierzenia",
+          "physical_signs": [
+            "pochylenie ciała w kierunku obiektu zaufania",
+            "intensywna ekspresja twarzy"
+          ]
+        }
+      },
+      "physical_manifestations": {
+        "face": {
+          "eyes": [
+            "spokojny, stały kontakt wzrokowy",
+            "naturalne tempo mrugania",
+            "rozluźnione powieki",
+            "łagodne spojrzenie",
+            "delikatnie rozszerzone źrenice",
+            "zmniejszone napięcie wokół oczu"
+          ],
+          "mouth": [
+            "delikatny, naturalny uśmiech",
+            "rozluźnione usta",
+            "brak napięcia w kącikach ust",
+            "spokojna mimika",
+            "naturalne ruchy podczas mówienia"
+          ],
+          "cheeks": [
+            "rozluźnione",
+            "naturalne zabarwienie",
+            "brak napięcia mięśniowego",
+            "łagodne uniesienie przy uśmiechu"
+          ],
+          "general": [
+            "harmonijna ekspresja",
+            "brak napięcia mięśniowego",
+            "naturalna symetria",
+            "spokojny wyraz twarzy"
+          ]
+        },
+        "body": {
+          "posture": [
+            "otwarta postawa",
+            "wyprostowane plecy",
+            "rozluźnione ramiona",
+            "stabilna pozycja",
+            "naturalne ułożenie rąk",
+            "swobodna pozycja nóg",
+            "brak krzyżowania kończyn"
+          ],
+          "movement": [
+            "płynne",
+            "spokojne",
+            "zrównoważone",
+            "pewne",
+            "harmonijne",
+            "przewidywalne",
+            "stabilne"
+          ],
+          "gestures": [
+            "otwarte gesty dłoni",
+            "spokojne ruchy rąk",
+            "naturalna gestykulacja",
+            "gesty wyrażające akceptację",
+            "łagodne ruchy głowy"
+          ]
+        },
+        "voice": {
+          "tone": ["ciepły", "spokojny", "pewny", "łagodny", "zrównoważony"],
+          "pitch": [
+            "średni rejestr",
+            "stabilny",
+            "naturalny",
+            "harmonijny",
+            "wyrównany"
+          ],
+          "tempo": [
+            "umiarkowane",
+            "stabilne",
+            "rytmiczne",
+            "naturalne",
+            "zrównoważone"
+          ],
+          "volume": [
+            "średni poziom głośności",
+            "stabilny",
+            "dostosowany do sytuacji",
+            "komfortowy dla słuchacza"
+          ]
+        },
+        "physiological": {
+          "breathing": [
+            "spokojny",
+            "regularny",
+            "głęboki",
+            "zrelaksowany",
+            "stabilny"
+          ],
+          "muscle_tension": [
+            "zrównoważone",
+            "naturalne",
+            "harmonijne",
+            "komfortowe"
+          ],
+          "heart_rate": ["stabilny", "regularny", "spokojny"]
+        }
+      },
+      "psychological_manifestations": {
+        "cognitive": {
+          "thought_patterns": [
+            "realistyczne",
+            "zrównoważone",
+            "otwarte",
+            "akceptujące",
+            "racjonalne"
+          ],
+          "attention": [
+            "skupiona",
+            "stabilna",
+            "selektywna",
+            "ukierunkowana na pozytywne aspekty"
+          ],
+          "perception": [
+            "zrównoważona ocena sytuacji",
+            "dostrzeganie pozytywnych intencji",
+            "realistyczna interpretacja zdarzeń",
+            "otwartość na nowe informacje"
+          ]
+        },
+        "emotional": {
+          "core_feelings": [
+            "bezpieczeństwo",
+            "spokój",
+            "pewność",
+            "akceptacja",
+            "stabilność"
+          ],
+          "associated_emotions": [
+            "życzliwość",
+            "cierpliwość",
+            "szacunek",
+            "empatia",
+            "spokój wewnętrzny"
+          ]
+        },
+        "behavioral": {
+          "social": [
+            "otwartość na innych",
+            "gotowość do współpracy",
+            "szczerość w komunikacji",
+            "responsywność",
+            "przewidywalność"
+          ],
+          "motivation": [
+            "stabilna",
+            "ukierunkowana na relacje",
+            "nastawiona na współpracę",
+            "długoterminowa"
+          ],
+          "energy_level": [
+            "zrównoważony",
+            "stabilny",
+            "kontrolowany",
+            "harmonijny"
+          ]
+        },
+        "memory": {
+          "recall": [
+            "łatwy dostęp do pozytywnych doświadczeń",
+            "zrównoważone przypominanie wydarzeń",
+            "stabilna pamięć relacji"
+          ],
+          "formation": [
+            "tworzenie trwałych wzorców zaufania",
+            "budowanie pozytywnych skojarzeń",
+            "wzmacnianie pamięci pozytywnych interakcji"
+          ]
+        }
+      },
+      "neurobiological_aspects": {
+        "brain_regions": [
+          {
+            "name": "wyspa",
+            "function": "przetwarzanie sygnałów społecznych",
+            "activity": "zrównoważona"
+          },
+          {
+            "name": "przyśrodkowa kora przedczołowa",
+            "function": "ocena wiarygodności",
+            "activity": "zwiększona"
+          },
+          {
+            "name": "jądro półleżące",
+            "function": "system nagrody",
+            "activity": "umiarkowana"
+          }
+        ],
+        "hormonal_changes": [
+          {
+            "hormone": "oksytocyna",
+            "effect": "wzmacnianie więzi społecznych",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "serotonina",
+            "effect": "stabilizacja nastroju",
+            "level": "zrównoważony"
+          },
+          {
+            "hormone": "wazopresyna",
+            "effect": "wzmacnianie więzi społecznych",
+            "level": "podwyższony"
+          }
+        ]
+      },
+      "temporal_characteristics": {
+        "onset_speed": {
+          "gradual": "powolne budowanie w oparciu o pozytywne doświadczenia",
+          "sudden": "nagłe wzmocnienie w reakcji na znaczące gesty zaufania"
+        },
+        "duration": {
+          "typical": "długotrwała, może utrzymywać się latami",
+          "factors": [
+            "jakość relacji",
+            "wcześniejsze doświadczenia",
+            "stabilność zachowań partnera interakcji"
+          ]
+        },
+        "decay_pattern": {
+          "natural": "powolne osłabienie przy braku wzmocnień",
+          "influenced_by": [
+            "naruszenie zaufania",
+            "zmiana kontekstu relacji",
+            "nowe informacje podważające zaufanie"
+          ]
+        }
+      },
+      "triggers": {
+        "external": [
+          "konsekwentne zachowanie innych",
+          "okazywanie wsparcia",
+          "szczera komunikacja",
+          "dotrzymywanie obietnic",
+          "wzajemność w relacji"
+        ],
+        "internal": [
+          "pozytywne doświadczenia z przeszłości",
+          "poczucie bezpieczeństwa",
+          "stabilność emocjonalna",
+          "pewność siebie",
+          "dojrzałość emocjonalna"
+        ]
+      },
+      "defense_mechanisms": {
+        "common_defenses": [
+          "selektywna percepcja pozytywnych sygnałów",
+          "racjonalizacja zachowań budzących wątpliwości",
+          "idealizacja obiektu zaufania"
+        ],
+        "coping_strategies": {
+          "adaptacyjne": [
+            "weryfikacja wiarygodności",
+            "stopniowe budowanie zaufania",
+            "zachowanie zdrowego dystansu"
+          ],
+          "nieadaptacyjne": [
+            "ślepe zaufanie",
+            "nadmierna zależność",
+            "ignorowanie sygnałów ostrzegawczych"
+          ]
+        }
+      },
+      "developmental_aspects": {
+        "age_manifestation": {
+          "childhood": [
+            "podstawowe zaufanie do opiekunów",
+            "naturalna otwartość",
+            "bezwarunkowe zawierzenie"
+          ],
+          "adolescence": [
+            "selektywne zaufanie",
+            "testowanie granic",
+            "budowanie własnych kryteriów"
+          ],
+          "adulthood": [
+            "świadome budowanie zaufania",
+            "zrównoważona ocena",
+            "dojrzałe relacje oparte na zaufaniu"
+          ]
+        },
+        "developmental_milestones": [
+          "rozwój podstawowego zaufania",
+          "umiejętność oceny wiarygodności",
+          "budowanie trwałych relacji",
+          "równowaga między zaufaniem a ostrożnością"
+        ]
+      },
+      "audience_impact": {
+        "emotional_contagion": {
+          "mechanisms": [
+            "wzajemne wzmacnianie zaufania",
+            "budowanie atmosfery bezpieczeństwa",
+            "tworzenie pozytywnego klimatu społecznego"
+          ],
+          "effects": [
+            "zwiększenie otwartości grupy",
+            "wzmocnienie więzi społecznych",
+            "poprawa współpracy"
+          ]
+        },
+        "catharsis_potential": {
+          "individual": [
+            "uwolnienie od napięć",
+            "poczucie bezpieczeństwa",
+            "wewnętrzny spokój"
+          ],
+          "collective": [
+            "budowanie wspólnoty",
+            "wzmacnianie więzi grupowych",
+            "tworzenie bezpiecznej przestrzeni"
+          ]
+        }
+      },
+      "historical_representations": {
+        "theatrical_traditions": {
+          "ancient": [
+            "rytuały społeczne",
+            "ceremonie religijne",
+            "przedstawienia misteriów"
+          ],
+          "classical": [
+            "dramaty psychologiczne",
+            "sztuki o przyjaźni",
+            "przedstawienia rodzinne"
+          ],
+          "modern": [
+            "teatr psychologiczny",
+            "dramaty relacyjne",
+            "sztuki o więziach międzyludzkich"
+          ]
+        }
+      }
+    },
+    "fear": {
+      "id": "fear",
+      "name": {
+        "pl": "strach",
+        "en": "fear",
+        "de": "Angst",
+        "fr": "peur",
+        "es": "miedo"
+      },
+      "intensity_levels": {
+        "low": {
+          "name": "niepokój",
+          "description": "Stan wzmożonej czujności i ostrożności",
+          "physical_signs": ["napięte mięśnie", "przyspieszone tętno"]
+        },
+        "medium": {
+          "name": "strach",
+          "description": "Wyraźna reakcja na zagrożenie",
+          "physical_signs": [
+            "drżenie rąk",
+            "płytki oddech",
+            "rozszerzone źrenice"
+          ]
+        },
+        "high": {
+          "name": "przerażenie",
+          "description": "Intensywny stan paniki i terroru",
+          "physical_signs": [
+            "paraliż",
+            "silne drżenie całego ciała",
+            "hiperwentylacja"
+          ]
+        }
+      },
+      "physical_manifestations": {
+        "face": {
+          "eyes": [
+            "maksymalnie rozszerzone źrenice",
+            "szeroko otwarte oczy",
+            "uniesione brwi",
+            "zmarszczone czoło",
+            "szybkie ruchy gałek ocznych",
+            "częste mruganie"
+          ],
+          "mouth": [
+            "zaciśnięte lub drżące usta",
+            "opuszczone kąciki ust",
+            "wysuszone usta",
+            "szczękościsk",
+            "niekontrolowane drganie warg"
+          ],
+          "cheeks": [
+            "blade",
+            "zapadnięte",
+            "napięte mięśnie policzkowe",
+            "zimny pot na twarzy"
+          ],
+          "general": [
+            "napięte mięśnie twarzy",
+            "asymetryczna ekspresja",
+            "niekontrolowane skurcze",
+            "ogólna bladość"
+          ]
+        },
+        "body": {
+          "posture": [
+            "zgarbiona",
+            "zamknięta",
+            "skulona",
+            "opuszczone ramiona",
+            "podkurczone nogi",
+            "cofnięta głowa",
+            "chronienie vital points"
+          ],
+          "movement": [
+            "sztywne",
+            "nieskoordynowane",
+            "wahające",
+            "drżące",
+            "gwałtowne",
+            "chaotyczne",
+            "spowolnione lub przyspieszone"
+          ],
+          "gestures": [
+            "obejmowanie się rękami",
+            "zasłanianie twarzy",
+            "krzyżowanie rąk na klatce piersiowej",
+            "nerwowe ruchy dłoni",
+            "zaciskanie pięści"
+          ]
+        },
+        "voice": {
+          "tone": ["drżący", "napięty", "słaby", "zachrypnięty", "niepewny"],
+          "pitch": [
+            "podwyższony",
+            "niestabilny",
+            "załamujący się",
+            "piskliwy w momentach paniki",
+            "zmienny"
+          ],
+          "tempo": [
+            "przyspieszone",
+            "nierównomierne",
+            "przerywane",
+            "z wahaniami",
+            "z przerwami na łapanie oddechu"
+          ],
+          "volume": [
+            "ściszony do szeptu",
+            "niekontrolowane wahania",
+            "trudności w utrzymaniu stałej głośności",
+            "nagłe wybuchy głośności"
+          ]
+        },
+        "physiological": {
+          "breathing": [
+            "płytki",
+            "przyspieszony",
+            "nieregularny",
+            "z trudnością",
+            "hiperwentylacja"
+          ],
+          "muscle_tension": [
+            "ekstremalne napięcie",
+            "drżenie",
+            "sztywność",
+            "skurcze mięśni"
+          ],
+          "heart_rate": [
+            "znacznie przyspieszony",
+            "nieregularny",
+            "kołatanie serca"
+          ]
+        }
+      },
+      "psychological_manifestations": {
+        "cognitive": {
+          "thought_patterns": [
+            "katastroficzne",
+            "tunelowe",
+            "intruzywne",
+            "nawracające myśli o zagrożeniu",
+            "trudności w racjonalnym myśleniu"
+          ],
+          "attention": [
+            "zawężona na źródło zagrożenia",
+            "trudności w koncentracji",
+            "nadmierna czujność",
+            "selektywne skupienie na potencjalnych zagrożeniach"
+          ],
+          "perception": [
+            "zniekształcona ocena sytuacji",
+            "przeszacowanie zagrożenia",
+            "niedoszacowanie własnych możliwości",
+            "zwiększona wrażliwość na bodźce"
+          ]
+        },
+        "emotional": {
+          "core_feelings": [
+            "bezradność",
+            "bezsilność",
+            "niepewność",
+            "zagrożenie",
+            "panika"
+          ],
+          "associated_emotions": [
+            "niepokój",
+            "napięcie",
+            "desperacja",
+            "poczucie osaczenia",
+            "dezorientacja"
+          ]
+        },
+        "behavioral": {
+          "social": [
+            "wycofanie",
+            "szukanie wsparcia",
+            "trudności w komunikacji",
+            "zwiększona zależność od innych",
+            "izolacja"
+          ],
+          "motivation": [
+            "silna motywacja do ucieczki",
+            "paraliż działania",
+            "unikanie",
+            "zachowania zabezpieczające"
+          ],
+          "energy_level": [
+            "nagły wzrost adrenaliny",
+            "szybkie wyczerpanie",
+            "wahania energii",
+            "mobilizacja do walki lub ucieczki"
+          ]
+        },
+        "memory": {
+          "recall": [
+            "wyostrzenie wspomnień traumatycznych",
+            "trudności w przypominaniu pozytywnych doświadczeń",
+            "selektywne przypominanie zagrożeń"
+          ],
+          "formation": [
+            "wzmocnione kodowanie negatywnych bodźców",
+            "fragmentaryczne zapamiętywanie",
+            "zniekształcenia w zapisie pamięciowym"
+          ]
+        }
+      },
+      "neurobiological_aspects": {
+        "brain_regions": [
+          {
+            "name": "ciało migdałowate",
+            "function": "wykrywanie i reakcja na zagrożenie",
+            "activity": "znacznie zwiększona"
+          },
+          {
+            "name": "hipokamp",
+            "function": "kontekstualizacja zagrożenia",
+            "activity": "zmniejszona"
+          },
+          {
+            "name": "kora przedczołowa",
+            "function": "racjonalna ocena sytuacji",
+            "activity": "osłabiona"
+          }
+        ],
+        "hormonal_changes": [
+          {
+            "hormone": "adrenalina",
+            "effect": "mobilizacja organizmu",
+            "level": "znacznie podwyższony"
+          },
+          {
+            "hormone": "kortyzol",
+            "effect": "reakcja stresowa",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "noradrenalina",
+            "effect": "pobudzenie układu współczulnego",
+            "level": "podwyższony"
+          }
+        ]
+      },
+      "temporal_characteristics": {
+        "onset_speed": {
+          "gradual": "narastające uczucie niepokoju w sytuacjach przewidywalnego zagrożenia",
+          "sudden": "natychmiastowa reakcja na nagłe zagrożenie"
+        },
+        "duration": {
+          "typical": "od kilku sekund do kilku godzin",
+          "factors": [
+            "obecność zagrożenia",
+            "indywidualna odporność psychiczna",
+            "wsparcie społeczne"
+          ]
+        },
+        "decay_pattern": {
+          "natural": "stopniowe uspokajanie po ustąpieniu zagrożenia",
+          "influenced_by": [
+            "poczucie bezpieczeństwa",
+            "racjonalizacja sytuacji",
+            "wsparcie innych osób"
+          ]
+        }
+      },
+      "triggers": {
+        "external": [
+          "bezpośrednie zagrożenie fizyczne",
+          "nieznane sytuacje",
+          "nagłe zmiany w otoczeniu",
+          "zagrożenie społeczne",
+          "nieprzewidywalne zdarzenia"
+        ],
+        "internal": [
+          "traumatyczne wspomnienia",
+          "antycypacja zagrożenia",
+          "intruzywne myśli",
+          "poczucie utraty kontroli",
+          "wyobrażone scenariusze"
+        ]
+      },
+      "defense_mechanisms": {
+        "common_defenses": [
+          "wyparcie źródła strachu",
+          "racjonalizacja zagrożenia",
+          "projekcja lęków na innych"
+        ],
+        "coping_strategies": {
+          "adaptacyjne": [
+            "techniki oddechowe",
+            "poszukiwanie wsparcia",
+            "stopniowa ekspozycja"
+          ],
+          "nieadaptacyjne": [
+            "całkowite unikanie",
+            "nadmierna kontrola",
+            "uzależnienie od zabezpieczeń"
+          ]
+        }
+      },
+      "developmental_aspects": {
+        "age_manifestation": {
+          "childhood": [
+            "bezpośrednia ekspresja strachu",
+            "szukanie ochrony u opiekunów",
+            "konkretne lęki"
+          ],
+          "adolescence": [
+            "lęki społeczne",
+            "egzystencjalne obawy",
+            "strach przed odrzuceniem"
+          ],
+          "adulthood": [
+            "złożone formy strachu",
+            "lęki odpowiedzialnościowe",
+            "strach o bliskich"
+          ]
+        },
+        "developmental_milestones": [
+          "rozpoznawanie realnych zagrożeń",
+          "rozwój strategii radzenia sobie",
+          "regulacja reakcji lękowych",
+          "adaptacyjne wykorzystanie strachu"
+        ]
+      },
+      "audience_impact": {
+        "emotional_contagion": {
+          "mechanisms": [
+            "zarażanie strachem",
+            "wspólna reakcja obronna",
+            "grupowa panika"
+          ],
+          "effects": [
+            "wzrost napięcia u widzów",
+            "współodczuwanie zagrożenia",
+            "kolektywna reakcja stresowa"
+          ]
+        },
+        "catharsis_potential": {
+          "individual": [
+            "konfrontacja z własnymi lękami",
+            "przepracowanie traumy",
+            "uwalnianie napięcia"
+          ],
+          "collective": [
+            "wspólne doświadczenie strachu",
+            "grupowe przepracowanie lęków",
+            "społeczne wsparcie"
+          ]
+        }
+      },
+      "historical_representations": {
+        "theatrical_traditions": {
+          "ancient": [
+            "greckie tragedie",
+            "maski strachu",
+            "rytuały oczyszczające"
+          ],
+          "classical": [
+            "teatr grozy",
+            "dramaty psychologiczne",
+            "ekspresjonizm"
+          ],
+          "modern": ["horror sceniczny", "teatr absurdu", "performance lękowy"]
+        }
+      }
+    },
+    "surprise": {
+      "id": "surprise",
+      "name": {
+        "pl": "zdziwienie",
+        "en": "surprise",
+        "de": "Überraschung",
+        "fr": "surprise",
+        "es": "sorpresa"
+      },
+      "intensity_levels": {
+        "low": {
+          "name": "zaciekawienie",
+          "description": "Łagodny stan zainteresowania i lekkiego zaskoczenia",
+          "physical_signs": [
+            "lekko uniesione brwi",
+            "delikatne rozszerzenie oczu"
+          ]
+        },
+        "medium": {
+          "name": "zdziwienie",
+          "description": "Wyraźny stan zaskoczenia i niedowierzania",
+          "physical_signs": [
+            "otwarte usta",
+            "uniesione brwi",
+            "szeroko otwarte oczy"
+          ]
+        },
+        "high": {
+          "name": "osłupienie",
+          "description": "Intensywny stan szoku i całkowitego zaskoczenia",
+          "physical_signs": [
+            "gwałtowny wdech",
+            "dramatyczny ruch ciała",
+            "znieruchomienie"
+          ]
+        }
+      },
+      "physical_manifestations": {
+        "face": {
+          "eyes": [
+            "szeroko otwarte",
+            "rozszerzone źrenice",
+            "unieruchomione spojrzenie",
+            "zmniejszona częstotliwość mrugania",
+            "uniesione górne powieki",
+            "widoczne białka oczu dookoła tęczówki"
+          ],
+          "mouth": [
+            "otwarte usta w kształcie 'O'",
+            "opuszczona żuchwa",
+            "widoczne zęby",
+            "wstrzymany oddech",
+            "mimowolne wydanie dźwięku"
+          ],
+          "cheeks": [
+            "uniesione",
+            "napięte",
+            "możliwe zblednięcie",
+            "rozszerzone nozdrza"
+          ],
+          "general": [
+            "uniesione brwi tworzące poziome zmarszczki na czole",
+            "symetryczna ekspresja",
+            "napięte mięśnie twarzy",
+            "możliwe drgnięcie głowy do tyłu"
+          ]
+        },
+        "body": {
+          "posture": [
+            "nagłe znieruchomienie",
+            "wyprostowana lub odchylona do tyłu",
+            "możliwe cofnięcie się",
+            "uniesione ramiona",
+            "napięte mięśnie",
+            "możliwa utrata równowagi",
+            "sztywna pozycja ciała"
+          ],
+          "movement": [
+            "gwałtowne",
+            "nieoczekiwane",
+            "odruchowe",
+            "defensywne",
+            "nieskoordynowane",
+            "urwane"
+          ],
+          "gestures": [
+            "odruchowe zasłanianie ust dłonią",
+            "gwałtowne cofnięcie rąk",
+            "wskazywanie na źródło zdziwienia",
+            "defensywne ruchy",
+            "mimowolne podskoczenie"
+          ]
+        },
+        "voice": {
+          "tone": [
+            "podwyższony",
+            "napięty",
+            "urwany",
+            "drżący",
+            "niekontrolowany"
+          ],
+          "pitch": [
+            "znacznie wyższy niż normalny",
+            "nagłe skoki wysokości",
+            "niestabilny",
+            "możliwe piski",
+            "przeskakujący"
+          ],
+          "tempo": ["urywane", "nieregularne", "przyspieszone", "z pauzami"],
+          "volume": [
+            "zmienny",
+            "od szeptu do krzyku",
+            "niekontrolowane wybuchy",
+            "nagłe zmiany głośności"
+          ]
+        },
+        "physiological": {
+          "breathing": [
+            "gwałtowny wdech",
+            "wstrzymanie oddechu",
+            "płytki",
+            "nieregularny",
+            "przyspieszony"
+          ],
+          "muscle_tension": [
+            "nagłe napięcie",
+            "sztywność",
+            "drżenie",
+            "mimowolne skurcze"
+          ],
+          "heart_rate": [
+            "gwałtowne przyspieszenie",
+            "nieregularny",
+            "wyczuwalny"
+          ]
+        }
+      },
+      "psychological_manifestations": {
+        "cognitive": {
+          "thought_patterns": [
+            "zatrzymanie bieżących myśli",
+            "trudność w przetwarzaniu informacji",
+            "koncentracja na źródle zaskoczenia",
+            "dezorientacja",
+            "próby zrozumienia sytuacji"
+          ],
+          "attention": [
+            "nagłe skupienie na bodźcu",
+            "zawężenie pola uwagi",
+            "trudność w przeniesieniu uwagi",
+            "zwiększona czujność"
+          ],
+          "perception": [
+            "wyostrzona percepcja szczegółów związanych z bodźcem",
+            "możliwe zniekształcenie czasu",
+            "zwiększona wrażliwość na bodźce",
+            "czasowa dezorientacja"
+          ]
+        },
+        "emotional": {
+          "core_feelings": [
+            "zaskoczenie",
+            "niedowierzanie",
+            "oszołomienie",
+            "dezorientacja",
+            "pobudzenie"
+          ],
+          "associated_emotions": [
+            "ciekawość",
+            "niepewność",
+            "niepokój",
+            "podekscytowanie",
+            "zdumienie"
+          ]
+        },
+        "behavioral": {
+          "social": [
+            "potrzeba dzielenia się doświadczeniem",
+            "szukanie potwierdzenia u innych",
+            "chwilowe wycofanie",
+            "zwiększona ekspresyjność"
+          ],
+          "motivation": [
+            "chęć zrozumienia sytuacji",
+            "potrzeba wyjaśnienia",
+            "impuls do działania lub ucieczki",
+            "ciekawość"
+          ],
+          "energy_level": [
+            "nagły wzrost",
+            "krótkotrwałe pobudzenie",
+            "możliwe wyczerpanie",
+            "niestabilny"
+          ]
+        },
+        "memory": {
+          "recall": [
+            "wyraźne zapamiętywanie momentu zaskoczenia",
+            "szczegółowe wspomnienia okoliczności",
+            "możliwe luki w pamięci przed zdarzeniem"
+          ],
+          "formation": [
+            "silne kodowanie nowych informacji",
+            "tworzenie trwałych śladów pamięciowych",
+            "zwiększona plastyczność neuronalna"
+          ]
+        }
+      },
+      "neurobiological_aspects": {
+        "brain_regions": [
+          {
+            "name": "ciało migdałowate",
+            "function": "przetwarzanie emocjonalne zaskoczenia",
+            "activity": "bardzo wysoka"
+          },
+          {
+            "name": "kora przedczołowa",
+            "function": "ocena nieoczekiwaności bodźca",
+            "activity": "zwiększona"
+          },
+          {
+            "name": "hipokamp",
+            "function": "kodowanie nowego doświadczenia",
+            "activity": "intensywna"
+          }
+        ],
+        "hormonal_changes": [
+          {
+            "hormone": "adrenalina",
+            "effect": "reakcja alarmowa",
+            "level": "gwałtownie podwyższony"
+          },
+          {
+            "hormone": "kortyzol",
+            "effect": "reakcja stresowa",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "noradrenalina",
+            "effect": "zwiększona czujność",
+            "level": "podwyższony"
+          }
+        ]
+      },
+      "temporal_characteristics": {
+        "onset_speed": {
+          "gradual": "rzadko występuje",
+          "sudden": "typowo natychmiastowa reakcja na nieoczekiwany bodziec"
+        },
+        "duration": {
+          "typical": "od kilku sekund do kilku minut",
+          "factors": [
+            "intensywność bodźca",
+            "kontekst sytuacyjny",
+            "indywidualna wrażliwość",
+            "znaczenie bodźca"
+          ]
+        },
+        "decay_pattern": {
+          "natural": "stosunkowo szybkie wygasanie",
+          "influenced_by": [
+            "zrozumienie sytuacji",
+            "pojawienie się innych emocji",
+            "adaptacja do bodźca"
+          ]
+        }
+      },
+      "triggers": {
+        "external": [
+          "nieoczekiwane wydarzenia",
+          "nagłe zmiany w otoczeniu",
+          "niespodziewane dźwięki lub widoki",
+          "nieprzewidywalne zachowania innych",
+          "nieoczekiwane informacje"
+        ],
+        "internal": [
+          "nagłe olśnienia",
+          "nieoczekiwane wspomnienia",
+          "nagłe zrozumienie",
+          "nieprzewidziane myśli",
+          "spontaniczne skojarzenia"
+        ]
+      },
+      "defense_mechanisms": {
+        "common_defenses": [
+          "racjonalizacja nieoczekiwanych zdarzeń",
+          "zaprzeczanie intensywności zaskoczenia",
+          "minimalizowanie znaczenia wydarzenia"
+        ],
+        "coping_strategies": {
+          "adaptacyjne": [
+            "aktywne poszukiwanie wyjaśnień",
+            "otwartość na nowe doświadczenia",
+            "elastyczne dostosowanie się do zmian"
+          ],
+          "nieadaptacyjne": [
+            "nadmierna czujność",
+            "unikanie nowych sytuacji",
+            "sztywne trzymanie się rutyny"
+          ]
+        }
+      },
+      "developmental_aspects": {
+        "age_manifestation": {
+          "childhood": [
+            "intensywna, bezpośrednia ekspresja",
+            "szybka adaptacja",
+            "ciekawość poznawcza"
+          ],
+          "adolescence": [
+            "większa kontrola reakcji",
+            "złożoność emocjonalna",
+            "społeczna modulacja ekspresji"
+          ],
+          "adulthood": [
+            "wyważona reakcja",
+            "kontekstowa interpretacja",
+            "szybsza regulacja"
+          ]
+        },
+        "developmental_milestones": [
+          "rozpoznawanie zaskoczenia u innych",
+          "kontrola intensywności reakcji",
+          "adaptacyjne wykorzystanie zaskoczenia",
+          "regulacja ekspresji"
+        ]
+      },
+      "audience_impact": {
+        "emotional_contagion": {
+          "mechanisms": [
+            "automatyczne odzwierciedlanie ekspresji",
+            "synchronizacja reakcji",
+            "grupowa amplifikacja"
+          ],
+          "effects": [
+            "zwiększenie uwagi widowni",
+            "wzmocnienie zaangażowania",
+            "wspólne przeżywanie momentu"
+          ]
+        },
+        "catharsis_potential": {
+          "individual": [
+            "moment olśnienia",
+            "przełamanie schematów",
+            "transformacja perspektywy"
+          ],
+          "collective": [
+            "wspólne doświadczenie odkrycia",
+            "grupowe przełamanie oczekiwań",
+            "zbiorowa transformacja"
+          ]
+        }
+      },
+      "historical_representations": {
+        "theatrical_traditions": {
+          "ancient": [
+            "grecki deus ex machina",
+            "nagłe zwroty akcji w dramatach",
+            "elementy magiczne w przedstawieniach"
+          ],
+          "classical": [
+            "nieoczekiwane rozpoznania",
+            "dramatyczne odkrycia",
+            "nagłe zmiany fortuny"
+          ],
+          "modern": [
+            "teatr absurdu",
+            "eksperymenty z oczekiwaniami widowni",
+            "interaktywne formy teatralne"
+          ]
+        }
+      }
+    },
+    "sadness": {
+      "id": "sadness",
+      "name": {
+        "pl": "smutek",
+        "en": "sadness",
+        "de": "Traurigkeit",
+        "fr": "tristesse",
+        "es": "tristeza"
+      },
+      "intensity_levels": {
+        "low": {
+          "name": "przygnębienie",
+          "description": "Łagodny stan obniżonego nastroju i melancholii",
+          "physical_signs": ["lekko opuszczone ramiona", "spowolnione ruchy"]
+        },
+        "medium": {
+          "name": "smutek",
+          "description": "Wyraźny stan żalu i przygnębienia",
+          "physical_signs": ["łzy w oczach", "zgarbiona postawa"]
+        },
+        "high": {
+          "name": "rozpacz",
+          "description": "Intensywny stan głębokiego cierpienia i załamania",
+          "physical_signs": ["szlochanie", "całkowite załamanie postawy ciała"]
+        }
+      },
+      "physical_manifestations": {
+        "face": {
+          "eyes": [
+            "opadające powieki",
+            "zmniejszone mruganie",
+            "łzawienie",
+            "nieobecne spojrzenie",
+            "zmniejszony kontakt wzrokowy",
+            "zapadnięte oczy"
+          ],
+          "mouth": [
+            "opuszczone kąciki ust",
+            "drżące wargi",
+            "zaciśnięte usta",
+            "delikatnie uchylone usta",
+            "asymetryczny grymas"
+          ],
+          "cheeks": [
+            "obwisłe",
+            "blade",
+            "napięte podczas płaczu",
+            "zapadnięte"
+          ],
+          "general": [
+            "napięte mięśnie twarzy",
+            "zmarszczone brwi",
+            "pionowe zmarszczki między brwiami",
+            "ogólne obniżenie rysów twarzy"
+          ]
+        },
+        "body": {
+          "posture": [
+            "zgarbiona",
+            "zamknięta",
+            "opuszczona głowa",
+            "zapadnięta klatka piersiowa",
+            "napięte ramiona",
+            "przygarbiony kręgosłup",
+            "niestabilna pozycja nóg"
+          ],
+          "movement": [
+            "spowolnione",
+            "ociężałe",
+            "nieskoordynowane",
+            "wahające",
+            "niepewne",
+            "pozbawione energii",
+            "mechaniczne"
+          ],
+          "gestures": [
+            "ograniczone ruchy rąk",
+            "gestykulacja blisko ciała",
+            "ruchy ochronne",
+            "obejmowanie się",
+            "dotykanie twarzy"
+          ]
+        },
+        "voice": {
+          "tone": [
+            "przytłumiony",
+            "monotonny",
+            "zachrypnięty",
+            "drżący",
+            "pozbawiony energii"
+          ],
+          "pitch": [
+            "obniżony",
+            "mało zróżnicowany",
+            "opadający",
+            "słaby",
+            "załamujący się"
+          ],
+          "tempo": ["spowolnione", "przerywane", "wahające", "nieregularne"],
+          "volume": [
+            "ściszony",
+            "słaby",
+            "trudny do usłyszenia",
+            "nierównomierny"
+          ]
+        },
+        "physiological": {
+          "breathing": [
+            "płytki",
+            "nieregularny",
+            "z westchnieniami",
+            "przerywany",
+            "urywany"
+          ],
+          "muscle_tension": [
+            "wzmożone napięcie",
+            "sztywność",
+            "drżenie",
+            "osłabienie"
+          ],
+          "heart_rate": ["spowolniony", "nieregularny", "osłabiony"]
+        }
+      },
+      "psychological_manifestations": {
+        "cognitive": {
+          "thought_patterns": [
+            "pesymistyczne",
+            "ruminacyjne",
+            "sztywne",
+            "katastroficzne",
+            "autokrytyczne"
+          ],
+          "attention": [
+            "zawężony zakres uwagi",
+            "trudności z koncentracją",
+            "skupienie na negatywnych bodźcach",
+            "zmniejszona percepcja pozytywnych aspektów"
+          ],
+          "perception": [
+            "negatywna interpretacja zdarzeń",
+            "zwiększona wrażliwość na przykre bodźce",
+            "tendencja do dostrzegania strat",
+            "pesymistyczna ocena sytuacji"
+          ]
+        },
+        "emotional": {
+          "core_feelings": [
+            "żal",
+            "tęsknota",
+            "przygnębienie",
+            "bezradność",
+            "pustka"
+          ],
+          "associated_emotions": [
+            "poczucie winy",
+            "beznadzieja",
+            "apatia",
+            "niepewność",
+            "niepokój"
+          ]
+        },
+        "behavioral": {
+          "social": [
+            "wycofanie społeczne",
+            "izolacja",
+            "zmniejszona komunikatywność",
+            "unikanie kontaktu",
+            "potrzeba wsparcia"
+          ],
+          "motivation": [
+            "obniżona inicjatywa",
+            "brak chęci działania",
+            "trudności z podejmowaniem decyzji",
+            "prokrastynacja"
+          ],
+          "energy_level": [
+            "obniżony",
+            "niestabilny",
+            "trudny do odnowienia",
+            "wyczerpany"
+          ]
+        },
+        "memory": {
+          "recall": [
+            "łatwiejszy dostęp do negatywnych wspomnień",
+            "selektywne przypominanie przykrych wydarzeń",
+            "trudności z przywoływaniem pozytywnych wspomnień"
+          ],
+          "formation": [
+            "zniekształcone zapamiętywanie bieżących wydarzeń",
+            "tworzenie negatywnych skojarzeń",
+            "osłabione kodowanie nowych informacji"
+          ]
+        }
+      },
+      "neurobiological_aspects": {
+        "brain_regions": [
+          {
+            "name": "kora przedczołowa",
+            "function": "regulacja emocji i planowanie",
+            "activity": "obniżona"
+          },
+          {
+            "name": "układ limbiczny",
+            "function": "przetwarzanie emocji",
+            "activity": "wzmożona"
+          },
+          {
+            "name": "ciało migdałowate",
+            "function": "ocena emocjonalna",
+            "activity": "podwyższona"
+          }
+        ],
+        "hormonal_changes": [
+          {
+            "hormone": "serotonina",
+            "effect": "obniżenie nastroju",
+            "level": "obniżony"
+          },
+          {
+            "hormone": "kortyzol",
+            "effect": "reakcja stresowa",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "melatonina",
+            "effect": "zaburzenia snu",
+            "level": "nieregularny"
+          }
+        ]
+      },
+      "temporal_characteristics": {
+        "onset_speed": {
+          "gradual": "powolne narastanie w reakcji na przewlekłe trudności",
+          "sudden": "nagły wzrost w reakcji na traumatyczne wydarzenia"
+        },
+        "duration": {
+          "typical": "od kilku godzin do kilku dni lub tygodni",
+          "factors": [
+            "głębokość straty",
+            "wsparcie społeczne",
+            "indywidualna odporność psychiczna"
+          ]
+        },
+        "decay_pattern": {
+          "natural": "stopniowe łagodzenie",
+          "influenced_by": [
+            "przepracowanie emocji",
+            "wsparcie otoczenia",
+            "aktywność fizyczna"
+          ]
+        }
+      },
+      "triggers": {
+        "external": [
+          "strata bliskiej osoby lub rzeczy",
+          "niepowodzenia życiowe",
+          "konflikty międzyludzkie",
+          "otrzymanie złej wiadomości",
+          "obserwacja cierpienia innych"
+        ],
+        "internal": [
+          "bolesne wspomnienia",
+          "poczucie porażki",
+          "myśli o przemijaniu",
+          "poczucie osamotnienia",
+          "niezrealizowane marzenia"
+        ]
+      },
+      "defense_mechanisms": {
+        "common_defenses": [
+          "wyparcie bolesnych emocji",
+          "racjonalizacja negatywnych wydarzeń",
+          "internalizacja smutku"
+        ],
+        "coping_strategies": {
+          "adaptacyjne": [
+            "wyrażanie emocji poprzez sztukę",
+            "szukanie wsparcia społecznego",
+            "akceptacja i przepracowanie straty"
+          ],
+          "nieadaptacyjne": [
+            "nadmierna izolacja",
+            "tłumienie emocji",
+            "uciekanie w używki"
+          ]
+        }
+      },
+      "developmental_aspects": {
+        "age_manifestation": {
+          "childhood": [
+            "bezpośrednia ekspresja",
+            "płacz",
+            "szukanie pocieszenia u opiekunów"
+          ],
+          "adolescence": [
+            "intensywne przeżywanie",
+            "maskowanie smutku",
+            "tendencje autodestrukcyjne"
+          ],
+          "adulthood": [
+            "złożona ekspresja",
+            "internalizacja",
+            "społeczne maskowanie"
+          ]
+        },
+        "developmental_milestones": [
+          "rozpoznawanie smutku u innych",
+          "rozwój strategii radzenia sobie",
+          "integracja smutku z innymi emocjami",
+          "konstruktywne wyrażanie żalu"
+        ]
+      },
+      "audience_impact": {
+        "emotional_contagion": {
+          "mechanisms": [
+            "empatyczne współodczuwanie",
+            "aktywacja własnych doświadczeń straty",
+            "synchronizacja emocjonalna"
+          ],
+          "effects": [
+            "wzbudzenie współczucia",
+            "refleksja nad własnymi stratami",
+            "pogłębienie więzi poprzez wspólne doświadczenie"
+          ]
+        },
+        "catharsis_potential": {
+          "individual": [
+            "oczyszczenie emocjonalne",
+            "przepracowanie własnych strat",
+            "akceptacja trudnych emocji"
+          ],
+          "collective": [
+            "wspólne przeżywanie żałoby",
+            "grupowe wsparcie",
+            "społeczna integracja"
+          ]
+        }
+      },
+      "historical_representations": {
+        "theatrical_traditions": {
+          "ancient": [
+            "greckie tragedie",
+            "lamenty żałobne",
+            "rytuały pogrzebowe"
+          ],
+          "classical": [
+            "szekspirowskie tragedie",
+            "opery romantyczne",
+            "dramaty psychologiczne"
+          ],
+          "modern": [
+            "teatr absurdu",
+            "performans społeczny",
+            "dokumenty teatralne"
+          ]
+        }
+      }
+    },
+    "disgust": {
+      "id": "disgust",
+      "name": {
+        "pl": "wstręt",
+        "en": "disgust",
+        "de": "Ekel",
+        "fr": "dégoût",
+        "es": "asco"
+      },
+      "intensity_levels": {
+        "low": {
+          "name": "niechęć",
+          "description": "Łagodne uczucie dezaprobaty i dyskomfortu",
+          "physical_signs": ["zmarszczony nos", "lekkie cofnięcie głowy"]
+        },
+        "medium": {
+          "name": "wstręt",
+          "description": "Wyraźna reakcja odrazy i odrzucenia",
+          "physical_signs": ["grymas obrzydzenia", "cofnięcie całego ciała"]
+        },
+        "high": {
+          "name": "obrzydzenie",
+          "description": "Intensywna reakcja awersyjna i silne odrzucenie",
+          "physical_signs": ["odruch wymiotny", "gwałtowne odsunięcie się"]
+        }
+      },
+      "physical_manifestations": {
+        "face": {
+          "eyes": [
+            "zwężone powieki",
+            "zmarszczone brwi",
+            "przymrużone oczy",
+            "unikanie kontaktu wzrokowego",
+            "szybkie mruganie",
+            "odwracanie wzroku"
+          ],
+          "mouth": [
+            "uniesiona górna warga",
+            "odsłonięte górne zęby",
+            "zaciśnięte usta",
+            "kąciki ust opuszczone",
+            "charakterystyczny grymas w kształcie podkowy"
+          ],
+          "cheeks": [
+            "uniesione",
+            "napięte",
+            "zmarszczone",
+            "uwydatnione przez grymas"
+          ],
+          "general": [
+            "zmarszczony nos",
+            "pogłębione bruzdy nosowo-wargowe",
+            "napięte mięśnie twarzy",
+            "asymetryczna ekspresja"
+          ]
+        },
+        "body": {
+          "posture": [
+            "cofnięta",
+            "zamknięta",
+            "skulona",
+            "odchylona do tyłu",
+            "napięte ramiona",
+            "uniesione barki",
+            "skręcone tułowie"
+          ],
+          "movement": [
+            "wycofujące",
+            "defensywne",
+            "powolne",
+            "ostrożne",
+            "zachowawcze",
+            "nieskoordynowane",
+            "gwałtowne cofanie się"
+          ],
+          "gestures": [
+            "odpychające ruchy rąk",
+            "zasłanianie twarzy",
+            "krzyżowanie ramion",
+            "odwracanie głowy",
+            "odsuwanie się"
+          ]
+        },
+        "voice": {
+          "tone": [
+            "napięty",
+            "zdławiony",
+            "ochrypły",
+            "szorstki",
+            "pełen odrazy"
+          ],
+          "pitch": [
+            "podwyższony",
+            "nieregularny",
+            "załamujący się",
+            "ostry",
+            "piskliwy"
+          ],
+          "tempo": [
+            "spowolnione",
+            "przerywane",
+            "nieregularne",
+            "wahające się"
+          ],
+          "volume": [
+            "ściszony",
+            "zmienny",
+            "przytłumiony",
+            "okresowo podwyższony"
+          ]
+        },
+        "physiological": {
+          "breathing": [
+            "płytki",
+            "nieregularny",
+            "przyspieszony",
+            "wstrzymywany",
+            "przerywany"
+          ],
+          "muscle_tension": [
+            "wysokie napięcie",
+            "sztywność",
+            "drżenie",
+            "gotowość do ucieczki"
+          ],
+          "heart_rate": ["przyspieszony", "nieregularny", "podwyższony"]
+        }
+      },
+      "psychological_manifestations": {
+        "cognitive": {
+          "thought_patterns": [
+            "krytyczne",
+            "oceniające",
+            "kategoryczne",
+            "wartościujące",
+            "unikające"
+          ],
+          "attention": [
+            "skupienie na źródle wstrętu",
+            "zawężona percepcja",
+            "selektywna uwaga",
+            "wyczulenie na negatywne bodźce"
+          ],
+          "perception": [
+            "negatywna interpretacja bodźców",
+            "wyolbrzymianie nieprzyjemnych aspektów",
+            "tendencja do kategoryzowania",
+            "pesymistyczna ocena sytuacji"
+          ]
+        },
+        "emotional": {
+          "core_feelings": [
+            "odraza",
+            "niechęć",
+            "awersja",
+            "odpychanie",
+            "dezaprobata"
+          ],
+          "associated_emotions": [
+            "pogarda",
+            "złość",
+            "lęk",
+            "niepokój",
+            "nienawiść"
+          ]
+        },
+        "behavioral": {
+          "social": [
+            "izolacja",
+            "unikanie kontaktu",
+            "odrzucenie",
+            "krytycyzm",
+            "osądzanie"
+          ],
+          "motivation": [
+            "chęć ucieczki",
+            "potrzeba oczyszczenia",
+            "dążenie do eliminacji źródła",
+            "unikanie"
+          ],
+          "energy_level": [
+            "zmienne",
+            "napięte",
+            "gotowość do reakcji",
+            "podwyższone pobudzenie"
+          ]
+        },
+        "memory": {
+          "recall": [
+            "wyraziste przypominanie źródeł wstrętu",
+            "selektywne przypominanie negatywnych doświadczeń",
+            "intruzywne wspomnienia"
+          ],
+          "formation": [
+            "silne kodowanie awersyjnych bodźców",
+            "tworzenie trwałych negatywnych skojarzeń",
+            "wzmocnione zapamiętywanie źródeł zagrożenia"
+          ]
+        }
+      },
+      "neurobiological_aspects": {
+        "brain_regions": [
+          {
+            "name": "wyspa",
+            "function": "przetwarzanie wstrętu i odrazy",
+            "activity": "podwyższona"
+          },
+          {
+            "name": "kora przedczołowa",
+            "function": "ocena i regulacja reakcji",
+            "activity": "zwiększona"
+          },
+          {
+            "name": "ciało migdałowate",
+            "function": "reakcja emocjonalna",
+            "activity": "podwyższona"
+          }
+        ],
+        "hormonal_changes": [
+          {
+            "hormone": "kortyzol",
+            "effect": "reakcja stresowa",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "noradrenalina",
+            "effect": "pobudzenie układu współczulnego",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "serotonina",
+            "effect": "regulacja nastroju",
+            "level": "obniżony"
+          }
+        ]
+      },
+      "temporal_characteristics": {
+        "onset_speed": {
+          "gradual": "powolne narastanie w reakcji na nasilające się bodźce",
+          "sudden": "nagła reakcja na silne bodźce awersyjne"
+        },
+        "duration": {
+          "typical": "od kilku sekund do kilku minut",
+          "factors": [
+            "intensywność bodźca",
+            "możliwość uniknięcia",
+            "wcześniejsze doświadczenia"
+          ]
+        },
+        "decay_pattern": {
+          "natural": "stopniowe wygasanie po usunięciu bodźca",
+          "influenced_by": [
+            "oddalenie od źródła",
+            "zmiana kontekstu",
+            "techniki regulacji emocji"
+          ]
+        }
+      },
+      "triggers": {
+        "external": [
+          "nieprzyjemne zapachy",
+          "nieapetyczny wygląd",
+          "naruszenie norm higienicznych",
+          "widok rozkładu",
+          "nieprzyjemne dźwięki"
+        ],
+        "internal": [
+          "wspomnienia awersyjnych doświadczeń",
+          "wyobrażenia nieprzyjemnych sytuacji",
+          "myśli o zanieczyszczeniu",
+          "naruszenie norm moralnych",
+          "poczucie nieczystości"
+        ]
+      },
+      "defense_mechanisms": {
+        "common_defenses": [
+          "racjonalizacja reakcji wstrętu",
+          "wypieranie nieprzyjemnych doświadczeń",
+          "projekcja własnych odczuć na innych"
+        ],
+        "coping_strategies": {
+          "adaptacyjne": [
+            "świadome regulowanie reakcji",
+            "stopniowa desensytyzacja",
+            "konstruktywne unikanie"
+          ],
+          "nieadaptacyjne": [
+            "nadmierne unikanie",
+            "kompulsywne zachowania oczyszczające",
+            "przesadne reakcje"
+          ]
+        }
+      },
+      "developmental_aspects": {
+        "age_manifestation": {
+          "childhood": [
+            "podstawowe reakcje na smak i zapach",
+            "uczenie się przez obserwację",
+            "silne reakcje fizjologiczne"
+          ],
+          "adolescence": [
+            "rozwój wstrętu moralnego",
+            "wpływ norm społecznych",
+            "kształtowanie preferencji"
+          ],
+          "adulthood": [
+            "złożone reakcje poznawcze",
+            "kontrola ekspresji",
+            "kontekstowa modyfikacja"
+          ]
+        },
+        "developmental_milestones": [
+          "rozpoznawanie wstrętu u innych",
+          "różnicowanie źródeł wstrętu",
+          "kontrola reakcji",
+          "rozwój wstrętu moralnego"
+        ]
+      },
+      "audience_impact": {
+        "emotional_contagion": {
+          "mechanisms": [
+            "mimikra ekspresji",
+            "empatyczna reakcja",
+            "zarażanie społeczne"
+          ],
+          "effects": [
+            "współodczuwanie odrazy",
+            "synchronizacja reakcji",
+            "wzmocnienie grupowych norm"
+          ]
+        },
+        "catharsis_potential": {
+          "individual": [
+            "oczyszczenie przez odrzucenie",
+            "wzmocnienie granic osobistych",
+            "rozwój samoświadomości"
+          ],
+          "collective": [
+            "wzmocnienie norm społecznych",
+            "budowanie wspólnych wartości",
+            "grupowa integracja"
+          ]
+        }
+      },
+      "historical_representations": {
+        "theatrical_traditions": {
+          "ancient": [
+            "greckie tragedie",
+            "maski teatralne",
+            "rytuały oczyszczenia"
+          ],
+          "classical": [
+            "średniowieczne moralitety",
+            "sztuki szekspirowskie",
+            "opera barokowa"
+          ],
+          "modern": [
+            "teatr ekspresjonistyczny",
+            "teatr okrucieństwa",
+            "performance art"
+          ]
+        }
+      }
+    },
+    "anger": {
+      "id": "anger",
+      "name": {
+        "pl": "gniew",
+        "en": "anger",
+        "de": "Wut",
+        "fr": "colère",
+        "es": "ira"
+      },
+      "intensity_levels": {
+        "low": {
+          "name": "rozdrażnienie",
+          "description": "Stan lekkiego zdenerwowania i dyskomfortu",
+          "physical_signs": ["zmarszczone brwi", "napięte mięśnie szczęki"]
+        },
+        "medium": {
+          "name": "gniew",
+          "description": "Wyraźny stan złości i niezadowolenia",
+          "physical_signs": ["zaciśnięte pięści", "przyspieszony oddech"]
+        },
+        "high": {
+          "name": "wściekłość",
+          "description": "Intensywny stan furii i utraty kontroli",
+          "physical_signs": [
+            "gwałtowne ruchy",
+            "czerwona twarz",
+            "drżenie ciała"
+          ]
+        }
+      },
+      "physical_manifestations": {
+        "face": {
+          "eyes": [
+            "zwężone źrenice",
+            "szeroko otwarte oczy",
+            "intensywne spojrzenie",
+            "zmarszczone brwi",
+            "napięte mięśnie wokół oczu",
+            "wyraźnie zaznaczone zmarszczki między brwiami"
+          ],
+          "mouth": [
+            "zaciśnięte usta",
+            "odsłonięte zęby",
+            "napięte kąciki ust",
+            "drżące wargi",
+            "asymetryczne ułożenie ust"
+          ],
+          "cheeks": [
+            "zaczerwienione",
+            "napięte",
+            "pulsujące żyły na skroniach",
+            "wyraźnie zarysowane mięśnie żuchwy"
+          ],
+          "general": [
+            "napięte mięśnie twarzy",
+            "wyraźne zmarszczki mimiczne",
+            "asymetryczna ekspresja",
+            "intensywny wyraz całości"
+          ]
+        },
+        "body": {
+          "posture": [
+            "napięta",
+            "konfrontacyjna",
+            "pochylona do przodu",
+            "uniesione ramiona",
+            "zaciśnięte pięści",
+            "sztywny kręgosłup",
+            "stabilna, szeroka postawa"
+          ],
+          "movement": [
+            "gwałtowne",
+            "szarpane",
+            "agresywne",
+            "ciężkie",
+            "nieregularne",
+            "nieskoordynowane",
+            "impulsywne"
+          ],
+          "gestures": [
+            "gwałtowna gestykulacja",
+            "wskazywanie palcem",
+            "wymachiwanie rękami",
+            "uderzanie w przedmioty",
+            "defensywne gesty"
+          ]
+        },
+        "voice": {
+          "tone": [
+            "ostry",
+            "szorstki",
+            "napięty",
+            "agresywny",
+            "nieprzyjemny dla ucha"
+          ],
+          "pitch": [
+            "podwyższony",
+            "niekontrolowane skoki",
+            "krzyk",
+            "nieelastyczny",
+            "forsowany"
+          ],
+          "tempo": ["przyspieszone", "nieregularne", "przerywane", "agresywne"],
+          "volume": [
+            "głośny",
+            "niekontrolowany",
+            "przekraczający normę",
+            "dominujący"
+          ]
+        },
+        "physiological": {
+          "breathing": [
+            "płytki",
+            "przyspieszony",
+            "nieregularny",
+            "głośny",
+            "forsowany"
+          ],
+          "muscle_tension": [
+            "ekstremalne napięcie",
+            "sztywność",
+            "drżenie",
+            "gotowość do walki"
+          ],
+          "heart_rate": ["znacznie przyspieszony", "nieregularny", "pulsujący"]
+        }
+      },
+      "psychological_manifestations": {
+        "cognitive": {
+          "thought_patterns": [
+            "czarno-białe myślenie",
+            "katastroficzne",
+            "sztywne",
+            "oskarżycielskie",
+            "zorientowane na atak"
+          ],
+          "attention": [
+            "zawężona uwaga",
+            "skupienie na zagrożeniu",
+            "trudności z koncentracją",
+            "selektywne postrzeganie negatywów"
+          ],
+          "perception": [
+            "wroga interpretacja zdarzeń",
+            "nadwrażliwość na prowokację",
+            "zniekształcona ocena sytuacji",
+            "poczucie zagrożenia"
+          ]
+        },
+        "emotional": {
+          "core_feelings": [
+            "wrogość",
+            "frustracja",
+            "irytacja",
+            "nienawiść",
+            "furia"
+          ],
+          "associated_emotions": [
+            "pogarda",
+            "zazdrość",
+            "uraza",
+            "poczucie krzywdy",
+            "niechęć"
+          ]
+        },
+        "behavioral": {
+          "social": [
+            "konfrontacyjność",
+            "izolacja",
+            "agresja słowna",
+            "dominacja",
+            "brak empatii"
+          ],
+          "motivation": [
+            "chęć odwetu",
+            "potrzeba dominacji",
+            "dążenie do konfrontacji",
+            "impulsywność"
+          ],
+          "energy_level": [
+            "wybuchowy",
+            "niestabilny",
+            "wysoki",
+            "trudny do kontrolowania"
+          ]
+        },
+        "memory": {
+          "recall": [
+            "łatwiejszy dostęp do negatywnych wspomnień",
+            "selektywne przypominanie krzywd",
+            "zniekształcone wspomnienia konfliktów"
+          ],
+          "formation": [
+            "wzmocnione kodowanie negatywnych doświadczeń",
+            "tworzenie trwałych negatywnych skojarzeń",
+            "zaburzenia w obiektywnym zapamiętywaniu"
+          ]
+        }
+      },
+      "neurobiological_aspects": {
+        "brain_regions": [
+          {
+            "name": "ciało migdałowate",
+            "function": "przetwarzanie emocji i zagrożeń",
+            "activity": "znacznie zwiększona"
+          },
+          {
+            "name": "kora przedczołowa",
+            "function": "kontrola impulsów",
+            "activity": "obniżona"
+          },
+          {
+            "name": "wyspa",
+            "function": "interocepcja i emocje",
+            "activity": "podwyższona"
+          }
+        ],
+        "hormonal_changes": [
+          {
+            "hormone": "adrenalina",
+            "effect": "reakcja walki lub ucieczki",
+            "level": "znacznie podwyższony"
+          },
+          {
+            "hormone": "kortyzol",
+            "effect": "reakcja stresowa",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "testosteron",
+            "effect": "agresja i dominacja",
+            "level": "podwyższony"
+          }
+        ]
+      },
+      "temporal_characteristics": {
+        "onset_speed": {
+          "gradual": "narastanie w odpowiedzi na kumulację frustracji",
+          "sudden": "wybuch w reakcji na bezpośrednią prowokację"
+        },
+        "duration": {
+          "typical": "od kilku minut do kilku godzin",
+          "factors": [
+            "siła prowokacji",
+            "osobowość",
+            "umiejętności regulacji emocji",
+            "okoliczności zewnętrzne"
+          ]
+        },
+        "decay_pattern": {
+          "natural": "stopniowe wygasanie",
+          "influenced_by": [
+            "rozwiązanie konfliktu",
+            "wyczerpanie fizyczne",
+            "interwencja zewnętrzna",
+            "zmiana perspektywy"
+          ]
+        }
+      },
+      "triggers": {
+        "external": [
+          "niesprawiedliwe traktowanie",
+          "naruszenie granic osobistych",
+          "prowokacja",
+          "frustracja potrzeb",
+          "zagrożenie fizyczne lub psychiczne"
+        ],
+        "internal": [
+          "poczucie bezsilności",
+          "wspomnienia krzywd",
+          "kumulacja stresu",
+          "myśli ruminacyjne",
+          "poczucie niesprawiedliwości"
+        ]
+      },
+      "defense_mechanisms": {
+        "common_defenses": [
+          "projekcja własnej agresji na innych",
+          "racjonalizacja gniewu",
+          "przemieszczenie agresji na bezpieczniejsze cele"
+        ],
+        "coping_strategies": {
+          "adaptacyjne": [
+            "asertywna komunikacja",
+            "techniki oddechowe",
+            "konstruktywne wyrażanie emocji"
+          ],
+          "nieadaptacyjne": [
+            "tłumienie gniewu",
+            "agresja fizyczna",
+            "autoagresja"
+          ]
+        }
+      },
+      "developmental_aspects": {
+        "age_manifestation": {
+          "childhood": [
+            "bezpośrednia ekspresja",
+            "wybuchy złości",
+            "brak kontroli impulsów"
+          ],
+          "adolescence": ["bunt", "intensywne reakcje", "problemy z regulacją"],
+          "adulthood": [
+            "większa kontrola",
+            "złożone formy ekspresji",
+            "świadome zarządzanie"
+          ]
+        },
+        "developmental_milestones": [
+          "rozpoznawanie własnego gniewu",
+          "rozwój kontroli impulsów",
+          "nauka konstruktywnej ekspresji",
+          "rozwój strategii regulacji"
+        ]
+      },
+      "audience_impact": {
+        "emotional_contagion": {
+          "mechanisms": [
+            "zarażanie agresją",
+            "wzbudzanie lęku",
+            "prowokowanie reakcji obronnych"
+          ],
+          "effects": [
+            "wzrost napięcia w grupie",
+            "polaryzacja postaw",
+            "zakłócenie komunikacji"
+          ]
+        },
+        "catharsis_potential": {
+          "individual": [
+            "uwolnienie napięcia",
+            "ekspresja tłumionych emocji",
+            "oczyszczenie psychiczne"
+          ],
+          "collective": [
+            "grupowa konfrontacja",
+            "społeczne napięcie",
+            "zbiorowa agresja"
+          ]
+        }
+      },
+      "historical_representations": {
+        "theatrical_traditions": {
+          "ancient": ["greckie tragedie", "maski gniewu", "rytuały wojenne"],
+          "classical": ["szekspirowskie monologi", "opera seria", "melodramat"],
+          "modern": [
+            "teatr ekspresjonistyczny",
+            "teatr okrucieństwa",
+            "performance art"
+          ]
+        }
+      }
+    },
+    "anticipation": {
+      "id": "anticipation",
+      "name": {
+        "pl": "oczekiwanie",
+        "en": "anticipation",
+        "de": "Erwartung",
+        "fr": "anticipation",
+        "es": "anticipación"
+      },
+      "intensity_levels": {
+        "low": {
+          "name": "zainteresowanie",
+          "description": "Stan lekkiego pobudzenia i skupienia uwagi",
+          "physical_signs": [
+            "lekkie pochylenie ciała",
+            "delikatne napięcie mięśni"
+          ]
+        },
+        "medium": {
+          "name": "oczekiwanie",
+          "description": "Stan aktywnego wyczekiwania i gotowości",
+          "physical_signs": ["zwiększona czujność", "wyraźne oznaki skupienia"]
+        },
+        "high": {
+          "name": "vigilance",
+          "description": "Stan intensywnej czujności i maksymalnej gotowości",
+          "physical_signs": ["pełna mobilizacja ciała", "intensywne skupienie"]
+        }
+      },
+      "physical_manifestations": {
+        "face": {
+          "eyes": [
+            "szeroko otwarte",
+            "skupiony wzrok",
+            "częste skanowanie otoczenia",
+            "zmniejszona częstotliwość mrugania",
+            "wyraźnie skierowane w stronę bodźca",
+            "rozszerzone źrenice"
+          ],
+          "mouth": [
+            "lekko rozchylone usta",
+            "okresowe zwilżanie warg",
+            "delikatne napięcie wokół ust",
+            "możliwe przygryzanie wargi",
+            "kontrolowany oddech przez usta"
+          ],
+          "cheeks": [
+            "lekko napięte",
+            "możliwe delikatne zaróżowienie",
+            "uniesione wraz ze skupionym wyrazem twarzy"
+          ],
+          "general": [
+            "wyraz skupienia na twarzy",
+            "napięcie mięśni twarzy",
+            "pochylenie głowy w kierunku bodźca",
+            "ogólna ekspresja zaangażowania"
+          ]
+        },
+        "body": {
+          "posture": [
+            "pochylona do przodu",
+            "gotowa do działania",
+            "lekko napięta",
+            "stabilna podstawa",
+            "ręce w pozycji gotowości",
+            "możliwe przyklęknięcie",
+            "dynamiczna równowaga"
+          ],
+          "movement": [
+            "kontrolowane",
+            "celowe",
+            "ekonomiczne",
+            "skoordynowane",
+            "gotowe do szybkiej reakcji",
+            "minimalne zbędne ruchy"
+          ],
+          "gestures": [
+            "wskazujące kierunek zainteresowania",
+            "powstrzymywane, ale gotowe",
+            "szybkie reakcje na bodźce",
+            "precyzyjne ruchy rąk",
+            "kontrolowana gestykulacja"
+          ]
+        },
+        "voice": {
+          "tone": [
+            "kontrolowany",
+            "skupiony",
+            "napięty",
+            "gotowy do reakcji",
+            "lekko przytłumiony"
+          ],
+          "pitch": [
+            "średni do wysokiego",
+            "możliwe nagłe zmiany",
+            "kontrolowany",
+            "gotowy do modulacji"
+          ],
+          "tempo": [
+            "zmienne",
+            "kontrolowane",
+            "z możliwymi pauzami",
+            "dostosowane do sytuacji"
+          ],
+          "volume": [
+            "kontrolowany",
+            "często ściszony",
+            "gotowy do nagłej zmiany",
+            "dostosowany do kontekstu"
+          ]
+        },
+        "physiological": {
+          "breathing": [
+            "kontrolowany",
+            "możliwe wstrzymywanie",
+            "płytki",
+            "przyspieszony",
+            "nieregularny"
+          ],
+          "muscle_tension": [
+            "podwyższone napięcie",
+            "gotowość do działania",
+            "kontrolowana energia",
+            "selektywne napięcie grup mięśniowych"
+          ],
+          "heart_rate": [
+            "lekko przyspieszony",
+            "zmienny",
+            "reagujący na bodźce"
+          ]
+        }
+      },
+      "psychological_manifestations": {
+        "cognitive": {
+          "thought_patterns": [
+            "zorientowane na przyszłość",
+            "analityczne",
+            "planujące",
+            "przewidujące",
+            "kalkulujące możliwości"
+          ],
+          "attention": [
+            "wysoce skoncentrowana",
+            "selektywna",
+            "ukierunkowana na cel",
+            "zwiększona czujność na określone bodźce"
+          ],
+          "perception": [
+            "wyostrzona",
+            "ukierunkowana na szczegóły",
+            "zwiększona wrażliwość na zmiany",
+            "aktywne przetwarzanie informacji"
+          ]
+        },
+        "emotional": {
+          "core_feelings": [
+            "podekscytowanie",
+            "gotowość",
+            "zainteresowanie",
+            "ciekawość",
+            "napięcie"
+          ],
+          "associated_emotions": [
+            "nadzieja",
+            "niepewność",
+            "podekscytowanie",
+            "ciekawość",
+            "czujność"
+          ]
+        },
+        "behavioral": {
+          "social": [
+            "zwiększona obserwacja innych",
+            "możliwa powściągliwość",
+            "strategiczne interakcje",
+            "kontrolowana komunikacja"
+          ],
+          "motivation": [
+            "ukierunkowana na cel",
+            "zorientowana na przyszłość",
+            "napędzana ciekawością",
+            "sterowana planowaniem"
+          ],
+          "energy_level": [
+            "zrównoważony",
+            "gotowy do mobilizacji",
+            "kontrolowany",
+            "efektywnie zarządzany"
+          ]
+        },
+        "memory": {
+          "recall": [
+            "selektywne przypominanie podobnych sytuacji",
+            "aktywacja schematów działania",
+            "zwiększona dostępność wspomnień związanych z celem"
+          ],
+          "formation": [
+            "wzmożone kodowanie istotnych informacji",
+            "tworzenie planów działania",
+            "zapisywanie wzorców i schematów"
+          ]
+        }
+      },
+      "neurobiological_aspects": {
+        "brain_regions": [
+          {
+            "name": "kora przedczołowa",
+            "function": "planowanie i przewidywanie",
+            "activity": "wysoka"
+          },
+          {
+            "name": "hipokamp",
+            "function": "pamięć i orientacja przestrzenna",
+            "activity": "zwiększona"
+          },
+          {
+            "name": "jądro półleżące",
+            "function": "motywacja i nagroda",
+            "activity": "podwyższona"
+          }
+        ],
+        "hormonal_changes": [
+          {
+            "hormone": "dopamina",
+            "effect": "motywacja i oczekiwanie nagrody",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "noradrenalina",
+            "effect": "czujność i koncentracja",
+            "level": "podwyższony"
+          },
+          {
+            "hormone": "kortyzol",
+            "effect": "mobilizacja energii",
+            "level": "umiarkowany"
+          }
+        ]
+      },
+      "temporal_characteristics": {
+        "onset_speed": {
+          "gradual": "stopniowe narastanie wraz z zbliżaniem się wydarzenia",
+          "sudden": "nagły wzrost w reakcji na nieoczekiwane sygnały"
+        },
+        "duration": {
+          "typical": "od kilku minut do kilku godzin lub dni",
+          "factors": [
+            "bliskość oczekiwanego wydarzenia",
+            "znaczenie wydarzenia",
+            "pewność wystąpienia"
+          ]
+        },
+        "decay_pattern": {
+          "natural": "stopniowe przejście w inne emocje",
+          "influenced_by": [
+            "realizacja oczekiwań",
+            "zmiana okoliczności",
+            "pojawienie się nowych bodźców"
+          ]
+        }
+      },
+      "triggers": {
+        "external": [
+          "zbliżające się wydarzenia",
+          "sygnały zapowiadające zmianę",
+          "nowe możliwości",
+          "nieznane sytuacje",
+          "obietnice i zapowiedzi"
+        ],
+        "internal": [
+          "plany i cele",
+          "wyobrażenia przyszłości",
+          "wspomnienia podobnych sytuacji",
+          "potrzeba kontroli",
+          "ciekawość"
+        ]
+      },
+      "defense_mechanisms": {
+        "common_defenses": [
+          "racjonalizacja niepewności",
+          "planowanie awaryjne",
+          "kontrola impulsów"
+        ],
+        "coping_strategies": {
+          "adaptacyjne": [
+            "konstruktywne planowanie",
+            "realistyczna ocena sytuacji",
+            "elastyczne dostosowanie oczekiwań"
+          ],
+          "nieadaptacyjne": [
+            "nadmierne planowanie",
+            "paraliż decyzyjny",
+            "obsesyjne myślenie o przyszłości"
+          ]
+        }
+      },
+      "developmental_aspects": {
+        "age_manifestation": {
+          "childhood": [
+            "spontaniczna ciekawość",
+            "bezpośrednie wyrażanie oczekiwań",
+            "krótki horyzont czasowy"
+          ],
+          "adolescence": [
+            "długoterminowe planowanie",
+            "złożone oczekiwania",
+            "zwiększona niepewność"
+          ],
+          "adulthood": [
+            "zrównoważone oczekiwania",
+            "strategiczne planowanie",
+            "adaptacyjne zarządzanie niepewnością"
+          ]
+        },
+        "developmental_milestones": [
+          "rozwój myślenia przyczynowo-skutkowego",
+          "zdolność do odraczania gratyfikacji",
+          "planowanie długoterminowe",
+          "zarządzanie niepewnością"
+        ]
+      },
+      "audience_impact": {
+        "emotional_contagion": {
+          "mechanisms": [
+            "wzbudzanie ciekawości",
+            "tworzenie napięcia",
+            "budowanie oczekiwań"
+          ],
+          "effects": [
+            "zwiększone zaangażowanie widowni",
+            "wspólne oczekiwanie",
+            "kolektywne napięcie"
+          ]
+        },
+        "catharsis_potential": {
+          "individual": [
+            "rozładowanie napięcia",
+            "spełnienie oczekiwań",
+            "poczucie kontroli"
+          ],
+          "collective": [
+            "wspólne doświadczenie spełnienia",
+            "dzielone uczucie ulgi",
+            "grupowa satysfakcja"
+          ]
+        }
+      },
+      "historical_representations": {
+        "theatrical_traditions": {
+          "ancient": [
+            "greckie prologos",
+            "rzymskie zapowiedzi",
+            "rytuały przygotowawcze"
+          ],
+          "classical": [
+            "dramatyczne zapowiedzi",
+            "budowanie napięcia",
+            "foreshadowing"
+          ],
+          "modern": [
+            "suspens",
+            "techniki narracyjne",
+            "budowanie oczekiwań widowni"
+          ]
+        }
+      }
+    }
+  }
+}
