@@ -1,11 +1,23 @@
 'use client';
 
-import React, { useState } from 'react';
-import { Search, Menu, X, ChevronDown, ChevronUp } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { Search, Menu, X } from 'lucide-react';
+import { EmotionGrid } from '@/components/EmotionCard';
+import { getAllEmotions, searchEmotions } from '@/lib/emotions';
+import { Emotion } from '@/lib/types';
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState('');
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [emotions, setEmotions] = useState<Emotion[]>([]);
+
+  useEffect(() => {
+    if (searchTerm.trim()) {
+      setEmotions(searchEmotions(searchTerm));
+    } else {
+      setEmotions(getAllEmotions());
+    }
+  }, [searchTerm]);
 
   return (
     <div className="min-h-screen bg-gray-50 p-4">
@@ -35,11 +47,13 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Tymczasowa informacja */}
-        <div className="text-center p-8 bg-white rounded-lg shadow">
-          <h2 className="text-xl font-semibold mb-4">Witaj w Atlasie Emocji</h2>
-          <p>Aplikacja jest w trakcie konfiguracji. Wkrótce pojawią się tutaj wszystkie dane o emocjach.</p>
-        </div>
+        {emotions.length > 0 ? (
+          <EmotionGrid emotions={emotions} />
+        ) : (
+          <div className="text-center p-8 bg-white rounded-lg shadow">
+            <p>Nie znaleziono emocji spełniających kryteria wyszukiwania.</p>
+          </div>
+        )}
       </div>
     </div>
   );
