@@ -1,5 +1,5 @@
 import { Emotion, EmotionsDatabase, LocalizedString } from './types';
-import emotionsData from '@/public/data/emotions.json';
+const emotionsData = require('../public/data/emotions.json') as EmotionsDatabase;
 
 export function getAllEmotions(): Emotion[] {
   const database = emotionsData as EmotionsDatabase;
