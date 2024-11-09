@@ -2,9 +2,10 @@
 
 import React, { useState, useEffect } from 'react';
 import { Search, Menu, X } from 'lucide-react';
-import { EmotionGrid } from '@/components/EmotionCard';
-import { getAllEmotions, searchEmotions } from '@/lib/emotions';
-import { Emotion } from '@/lib/types';
+import { EmotionGrid } from '../components/EmotionCard';
+import { EmotionDetail } from '../components/EmotionDetail';
+import { getAllEmotions, searchEmotions } from '../lib/emotions';
+import { Emotion } from '../lib/types';
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState('');
