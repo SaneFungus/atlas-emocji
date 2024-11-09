@@ -1,6 +1,6 @@
 import React from 'react';
-import { Emotion } from '@/lib/types';
-import { getEmotionIntensityColor } from '@/lib/emotions';
+import { Emotion } from '../lib/types';
+import { getEmotionIntensityColor } from '../lib/emotions';
 
 interface EmotionCardProps {
   emotion: Emotion;
